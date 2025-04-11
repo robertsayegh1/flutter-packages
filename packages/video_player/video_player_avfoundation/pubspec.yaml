@@ -38,6 +38,6 @@ topics:
   - video-player
 
 # FOR TESTING ONLY. DO NOT MERGE.
-dependency_overrides:
-  video_player_platform_interface:
-    path: ../../video_player/video_player_platform_interface
+#dependency_overrides:
+#  video_player_platform_interface:
+#    path: ../../video_player/video_player_platform_interface
